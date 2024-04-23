@@ -1,0 +1,58 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    height: 100vh;
+    margin: 0 auto;
+    font-family: 'playpen sans';
+    color: #000;
+    background-color:#5DADE2 ;
+}
+
+.contenedor {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.search {
+    padding: 40px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.search i {
+    font-size: 25px;
+    color: #111111;
+}
+
+.search-txt {
+    display: flex;
+    align-items: center;
+}
+
+.search-txt i {
+    font-size: 40px;
+    color: #f8010a;
+}
+
+.search-txt h2 {
+    color: #111111;
+    font-size: 40px;
+    margin-left: 10px;
+}
+
+.btn {
+    margin-left: 25px;
+}
+
+img{
+    height: 450px;
+    width: 500px;
+    padding: 30px;
+    margin: 10px;
+}
